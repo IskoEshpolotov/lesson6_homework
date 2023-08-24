@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson6_homework</string>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="textOne">Вход</string>
+</resources>
